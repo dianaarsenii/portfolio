@@ -1,0 +1,15 @@
+{
+  "name": "Diana Arsenii",
+  "title": "Frontend Engineer",
+  "location": "Europe · Working worldwide",
+  "email": "diana.arsenii@icloud.com",
+  "linkedin": "https://www.linkedin.com/in/diana-arsenii-56232b11a",
+  "github": "https://github.com/dianaarsenii",
+  "cvFileName": "Diana_Arsenii.pdf",
+  "summary": "Frontend Engineer with 7+ years of experience building and optimizing web, cross-platform, and native applications across consumer streaming, gaming, and FinTech. Experienced in React, TypeScript, React Native, and native iOS development.",
+  "about": [
+    "I’m a frontend engineer with deep hands-on experience in product delivery, performance optimization, and cross-platform product development. I care about building reliable interfaces that feel effortless for users and practical for teams to maintain.",
+    "My work spans consumer streaming, gaming, and FinTech products, with a strong focus on frontend architecture, platform constraints, and end-to-end feature ownership. I’ve partnered with product, design, backend, and platform teams to move from ambiguous requirements to confident release decisions.",
+    "I’m especially interested in systems that need both UX quality and engineering discipline: performance-sensitive UI, reusable component architecture, accessibility, and cross-platform consistency. My approach is grounded in ownership, clear trade-offs, and measurable outcomes."
+  ]
+}
