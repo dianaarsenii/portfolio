@@ -75,10 +75,30 @@ function App() {
       <section className="intro-band" aria-label="Engineering philosophy">
         <div className="shell intro-inner">
           <p className="eyebrow">A LITTLE ABOUT MY APPROACH</p>
-          <p className="intro-statement">
-            I care about the details users notice and the engineering choices that
-            make great experiences feel effortless.
-          </p>
+          <div>
+            <p className="intro-statement">
+              I care about the details users notice and the engineering choices that
+              make great experiences feel effortless.
+            </p>
+            <div className="value-grid" aria-label="Core engineering values">
+              <div className="value-item">
+                <span>Quality</span>
+                <strong>Reliable product decisions.</strong>
+              </div>
+              <div className="value-item">
+                <span>User experience</span>
+                <strong>Thoughtful, clear, and usable.</strong>
+              </div>
+              <div className="value-item">
+                <span>Ownership</span>
+                <strong>From idea to release.</strong>
+              </div>
+              <div className="value-item">
+                <span>Performance</span>
+                <strong>Fast feels as important as beautiful.</strong>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
